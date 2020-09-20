@@ -30,8 +30,7 @@ body {
   font-size: 15px;
   font-family: "Roboto", sans-serif;
   font-weight: 400;
-  color: #777777;
-  background: url(../img/body-bg.png) no-repeat center; }
+  color: #777777;}
 
 h1,
 h2,
@@ -344,11 +343,10 @@ button:focus {
 ============================================================================================ */
 .home_banner_area {
   z-index: 1;
-  background: url(../img/banner/home-banner.png) no-repeat top center;
   background-position: center;
   background-size: cover; }
   .home_banner_area .banner_inner {
-    width: 100%; }
+    width: 80%; }
     .home_banner_area .banner_inner .home_right_img {
       padding-top: 197px; }
       @media (max-width: 1480px) {
